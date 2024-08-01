@@ -7,12 +7,12 @@
 // 
 //   [MSSQLTest]
 //   Driver = ODBC Driver 18 for SQL Server
-//   Server = tcp:mssql.ad.hofsvang.no,1433
+//   Server = tcp:server.domain.no,1433
 //   Encrypt = YES 
 //   TrustServerCertificate = YES
 //   Trusted_Connection = YES
 //
-// Developer: Bjorn Hofsvang bjorn(at)hofsvang.no  
+// Bjorn Hofsvang bjorn(at)hofsvang.no  
 
 #include <stdio.h>
 #include <sql.h>
